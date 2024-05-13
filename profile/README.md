@@ -4,8 +4,6 @@
 
 **Kylin是一套android kotlin库，** 它可以为开发人员提供更适合中国行业发展的解决方案。当然也可以理解为中国版的`Jetpack`。
 
-我们想象一下，作为Android开发者能够在这里找到所有的解决方案。Android有Jetpack，中国有麒麟，这是多么`Amazing`🤩的事情！
-
 ## Contribution
 
 **如果你有还不错的项目，非常愿意在这个项目提交issues。**
